@@ -24,7 +24,3 @@ When setting up a new Mac, you may want to set some sensible OS X defaults:
 ./.osx
 ```
 
-## upstream
-
-Suggestions/improvements
-[welcome back upstream](https://github.com/tambaqui/dotfiles/issues)!
